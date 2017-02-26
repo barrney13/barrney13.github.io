@@ -1,0 +1,112 @@
+html, body, .container {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.img-circle {
+	width: 100%;
+}
+
+body {
+
+	font-family: 'Sansita', sans-serif;
+	background-color: #fff; 
+	background-image: linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .1em, transparent .1em);
+	background-size: 100% 1.2em;
+	margin: 0px;
+}
+
+.blue {
+	color: blue;
+}
+
+.grenn {
+	color: green;
+}
+
+h4, p {
+	color: white;
+	font-size: 25px;
+}
+
+.header {
+	background: url(../img/PuwoAuJ.jpg);
+	background-repeat: repeat;
+	background-size: 100%;
+	height: 300px;
+
+}
+
+.margin {
+    margin-bottom: 0px;
+}
+
+.header-one {
+
+	background-color: black;
+	height: 100px;
+
+}
+
+.pic1 {
+
+	background: url(../img/London-wallpaper-12.jpg);
+	background-size: cover;
+	height: 100%;
+	position: relative;
+
+}
+
+.info {
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+
+.features {
+
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+
+}
+
+.pic2 {
+
+	background: url(../img/Bild2.jpg);
+	background-size: cover;
+	height: 50%;
+	position: relative;
+
+}
+
+.pic3 {
+
+	background: url(../img/gettyimages-166661980.jpg);
+	background-size: cover;
+	height: 50%;
+	position: relative;
+
+}
+
+.pic4 {
+
+	background: url(../img/IMG_8820.jpg);
+	background-size: cover;
+	height: 50%;
+	position: relative;
+
+}
+
+.pic5 {
+
+	background: url(../img/bmw_pic.jpg);
+	background-size: cover;
+	height: 50%;
+	position: relative;
+
+}
